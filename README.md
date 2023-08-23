@@ -1,20 +1,10 @@
-# Quartz v4
+---
+title: Lulz' TFEE mind palace
+---
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to my web of thoughts and research regarding THE FINALS Easter Egg Hunt. I joined in on the dunt during T2E, an thus the majority of my research begins there and works forward.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+This is a work in progress. Much of my original note taking was less organized, and thus lacks som eof the more detailed sourcing that I'm striving for now.
 
-**If you are looking for Quartz v3, you can find it on the [`hugo` branch](https://github.com/jackyzha0/quartz/tree/hugo).**
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Certain aspects of my local Obsidian notes do not translate well to Quartz in its current state. For example, in Obisidian, inline tags can be viewed on a graph, while Quartz does not yet support this.
+Thus many of my notes appear diconnected in the Quartz graph, despite being connected by a tag.
