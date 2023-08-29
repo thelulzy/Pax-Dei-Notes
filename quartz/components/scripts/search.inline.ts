@@ -1,7 +1,7 @@
 import { Document } from "flexsearch"
 import { ContentDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
-import { FullSlug, resolveRelative } from "../../util/path"
+import { FullSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 
 interface Item {
   id: number
@@ -64,7 +64,6 @@ function highlight(searchTerm: string, text: string, trim?: boolean) {
 }
 
 const encoder = (str: string) => str.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/)
-let prevShortcutHandler: ((e: HTMLElementEventMap["keydown"]) => void) | undefined = undefined
 document.addEventListener("nav", async (e: unknown) => {
   const currentSlug = (e as CustomEventMap["nav"]).detail.url
 
@@ -128,7 +127,6 @@ document.addEventListener("nav", async (e: unknown) => {
     button.addEventListener("click", () => {
       const targ = resolveRelative(currentSlug, slug)
       window.spaNavigate(new URL(targ, window.location.toString()))
-      hideSearch()
     })
     return button
   }
@@ -161,12 +159,8 @@ document.addEventListener("nav", async (e: unknown) => {
     displayResults(finalResults)
   }
 
-  if (prevShortcutHandler) {
-    document.removeEventListener("keydown", prevShortcutHandler)
-  }
-
+  document.removeEventListener("keydown", shortcutHandler)
   document.addEventListener("keydown", shortcutHandler)
-  prevShortcutHandler = shortcutHandler
   searchIcon?.removeEventListener("click", showSearch)
   searchIcon?.addEventListener("click", showSearch)
   searchBar?.removeEventListener("input", onType)

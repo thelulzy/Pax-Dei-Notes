@@ -1,16 +1,15 @@
-import { formatDate, getDate } from "./Date"
+import { formatDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 
 export default (() => {
-  function ContentMetadata({ cfg, fileData }: QuartzComponentProps) {
+  function ContentMetadata({ fileData }: QuartzComponentProps) {
     const text = fileData.text
     if (text) {
       const segments: string[] = []
       const { text: timeTaken, words: _words } = readingTime(text)
-
-      if (fileData.dates) {
-        segments.push(formatDate(getDate(cfg, fileData)!))
+      if (fileData.dates?.modified) {
+        segments.push(formatDate(fileData.dates.modified))
       }
 
       segments.push(timeTaken)

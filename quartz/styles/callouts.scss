@@ -82,6 +82,7 @@
 
 .callout-title {
   display: flex;
+  align-items: center;
   gap: 5px;
   padding: 1rem 0;
   color: var(--color);
@@ -102,8 +103,6 @@
 .callout-icon {
   width: 18px;
   height: 18px;
-  flex: 0 0 18px;
-  padding-top: 4px;
 }
 
 .callout-title-inner {

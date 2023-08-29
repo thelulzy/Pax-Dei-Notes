@@ -2,17 +2,14 @@ import matter from "gray-matter"
 import remarkFrontmatter from "remark-frontmatter"
 import { QuartzTransformerPlugin } from "../types"
 import yaml from "js-yaml"
-import toml from "toml"
 import { slugTag } from "../../util/path"
 
 export interface Options {
   delims: string | string[]
-  language: "yaml" | "toml"
 }
 
 const defaultOptions: Options = {
   delims: "---",
-  language: "yaml",
 }
 
 export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> = (userOpts) => {
@@ -21,14 +18,13 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
     name: "FrontMatter",
     markdownPlugins() {
       return [
-        [remarkFrontmatter, ["yaml", "toml"]],
+        remarkFrontmatter,
         () => {
           return (_, file) => {
             const { data } = matter(file.value, {
               ...opts,
               engines: {
                 yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
-                toml: (s) => toml.parse(s) as object,
               },
             })
 
@@ -45,7 +41,7 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options> | undefined> 
             }
 
             // slug them all!!
-            data.tags = [...new Set(data.tags?.map((tag: string) => slugTag(tag)))] ?? []
+            data.tags = data.tags?.map((tag: string) => slugTag(tag)) ?? []
 
             // fill in frontmatter
             file.data.frontmatter = {
