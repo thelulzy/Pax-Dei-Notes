@@ -162,7 +162,6 @@ yargs(hideBin(process.argv))
             label: "Symlink an existing folder",
             hint: "don't select this unless you know what you are doing!",
           },
-          { value: "keep", label: "Keep the existing files" },
         ],
       }),
     )
@@ -176,6 +175,7 @@ yargs(hideBin(process.argv))
       }
     }
 
+    await fs.promises.unlink(path.join(contentFolder, ".gitkeep"))
     if (setupStrategy === "copy" || setupStrategy === "symlink") {
       const originalFolder = escapePath(
         exitIfCancel(
@@ -205,8 +205,6 @@ yargs(hideBin(process.argv))
         await fs.promises.symlink(originalFolder, contentFolder, "dir")
       }
     } else if (setupStrategy === "new") {
-      await rmContentFolder()
-      await fs.promises.mkdir(contentFolder)
       await fs.promises.writeFile(
         path.join(contentFolder, "index.md"),
         `---
@@ -393,10 +391,23 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
     })
 
     const buildMutex = new Mutex()
+<<<<<<< HEAD
     const timeoutIds = new Set()
     let cleanupBuild = null
     const build = async (clientRefresh) => {
       const release = await buildMutex.acquire()
+=======
+    let lastBuildMs = 0
+    let cleanupBuild = null
+    const build = async (clientRefresh) => {
+      const buildStart = new Date().getTime()
+      lastBuildMs = buildStart
+      const release = await buildMutex.acquire()
+      if (lastBuildMs > buildStart) {
+        release()
+        return
+      }
+>>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
 
       if (cleanupBuild) {
         await cleanupBuild()
@@ -426,12 +437,15 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
       const { default: buildQuartz } = await import(cacheFile + `?update=${randomUUID()}`)
       cleanupBuild = await buildQuartz(argv, buildMutex, clientRefresh)
       clientRefresh()
+<<<<<<< HEAD
     }
 
     const rebuild = (clientRefresh) => {
       timeoutIds.forEach((id) => clearTimeout(id))
       timeoutIds.clear()
       timeoutIds.add(setTimeout(() => build(clientRefresh), 250))
+=======
+>>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
     }
 
     if (argv.serve) {
@@ -459,6 +473,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
         req.url = req.url?.slice(argv.baseDir.length)
 
         const serve = async () => {
+          const release = await buildMutex.acquire()
           await serveHandler(req, res, {
             public: argv.output,
             directoryListing: false,
@@ -473,6 +488,7 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
           const statusString =
             status >= 200 && status < 300 ? chalk.green(`[${status}]`) : chalk.red(`[${status}]`)
           console.log(statusString + chalk.grey(` ${argv.baseDir}${req.url}`))
+          release()
         }
 
         const redirect = (newFp) => {
@@ -539,7 +555,11 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
           ignoreInitial: true,
         })
         .on("all", async () => {
+<<<<<<< HEAD
           rebuild(clientRefresh)
+=======
+          build(clientRefresh)
+>>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
         })
     } else {
       await build(() => {})
