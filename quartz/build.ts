@@ -81,11 +81,7 @@ async function startServing(
   }
 
   const initialSlugs = ctx.allSlugs
-<<<<<<< HEAD
-  const timeoutIds: Set<ReturnType<typeof setTimeout>> = new Set()
-=======
   let lastBuildMs = 0
->>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
   const toRebuild: Set<FilePath> = new Set()
   const toRemove: Set<FilePath> = new Set()
   const trackedAssets: Set<FilePath> = new Set()
@@ -115,51 +111,6 @@ async function startServing(
     }
 
     // debounce rebuilds every 250ms
-<<<<<<< HEAD
-    timeoutIds.add(
-      setTimeout(async () => {
-        const release = await mut.acquire()
-        timeoutIds.forEach((id) => clearTimeout(id))
-        timeoutIds.clear()
-
-        const perf = new PerfTimer()
-        console.log(chalk.yellow("Detected change, rebuilding..."))
-        try {
-          const filesToRebuild = [...toRebuild].filter((fp) => !toRemove.has(fp))
-
-          const trackedSlugs = [...new Set([...contentMap.keys(), ...toRebuild, ...trackedAssets])]
-            .filter((fp) => !toRemove.has(fp))
-            .map((fp) => slugifyFilePath(path.posix.relative(argv.directory, fp) as FilePath))
-
-          ctx.allSlugs = [...new Set([...initialSlugs, ...trackedSlugs])]
-          const parsedContent = await parseMarkdown(ctx, filesToRebuild)
-          for (const content of parsedContent) {
-            const [_tree, vfile] = content
-            contentMap.set(vfile.data.filePath!, content)
-          }
-
-          for (const fp of toRemove) {
-            contentMap.delete(fp)
-          }
-
-          // TODO: we can probably traverse the link graph to figure out what's safe to delete here
-          // instead of just deleting everything
-          await rimraf(argv.output)
-          const parsedFiles = [...contentMap.values()]
-          const filteredContent = filterContent(ctx, parsedFiles)
-          await emitContent(ctx, filteredContent)
-          console.log(chalk.green(`Done rebuilding in ${perf.timeSince()}`))
-        } catch {
-          console.log(chalk.yellow(`Rebuild failed. Waiting on a change to fix the error...`))
-        }
-
-        clientRefresh()
-        toRebuild.clear()
-        toRemove.clear()
-        release()
-      }, 250),
-    )
-=======
 
     const buildStart = new Date().getTime()
     lastBuildMs = buildStart
@@ -204,7 +155,6 @@ async function startServing(
     toRebuild.clear()
     toRemove.clear()
     release()
->>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
   }
 
   const watcher = chokidar.watch(".", {
@@ -219,10 +169,6 @@ async function startServing(
     .on("unlink", (fp) => rebuild(fp, "delete"))
 
   return async () => {
-<<<<<<< HEAD
-    timeoutIds.forEach((id) => clearTimeout(id))
-=======
->>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
     await watcher.close()
   }
 }

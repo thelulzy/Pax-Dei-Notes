@@ -63,11 +63,7 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options> | undefined> =
 
                   // url.resolve is considered legacy
                   // WHATWG equivalent https://nodejs.dev/en/api/v18/url/#urlresolvefrom-to
-<<<<<<< HEAD
-                  const url = new URL(dest, `resolve://${curSlug}`)
-=======
                   const url = new URL(dest, `https://base.com/${curSlug}`)
->>>>>>> 6cd0612d40a5011f19f5ca2e5e804477779e393f
                   const canonicalDest = url.pathname
                   const [destCanonical, _destAnchor] = splitAnchor(canonicalDest)
 
