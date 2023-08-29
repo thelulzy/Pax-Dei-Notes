@@ -1,3 +1,0 @@
-
-[[Diatonic Scale]]  
-#Mod

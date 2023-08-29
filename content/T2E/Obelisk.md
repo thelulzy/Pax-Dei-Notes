@@ -1,1 +1,0 @@
-Carries a [[Menhir]]

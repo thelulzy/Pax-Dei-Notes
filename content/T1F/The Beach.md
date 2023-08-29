@@ -1,0 +1,2 @@
+[wiki](https://en.wikipedia.org/wiki/The_Beach_(film) "The Beach (film)")
+> In 2000 the single "Beached" was released from the soundtrack to the film [[T1F/The Beach]], mixing the brothers' musical style with a melody by [Angelo Badalamenti](https://en.wikipedia.org/wiki/Angelo_Badalamenti "Angelo Badalamenti") and the words of [[T1F/Leonardo DiCaprio]] from the film.

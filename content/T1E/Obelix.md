@@ -1,0 +1,1 @@
+Comes from [[T1E/Obelisk]] meaning little split and/or [[T1E/Obelus]]
