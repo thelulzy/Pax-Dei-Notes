@@ -1,0 +1,10 @@
+[wiki](https://en.wikipedia.org/wiki/White_Rabbit "White Rabbit")
+
+## In popular culture
+### Films
+> - In _[Jurassic Park](https://en.wikipedia.org/wiki/Jurassic_Park_(film) "Jurassic Park (film)")_, the character of Dennis Nedry writes a computer program to disable security systems of the park and hide his steps. [Samuel L. Jackson](https://en.wikipedia.org/wiki/Samuel_L._Jackson "Samuel L. Jackson")'s character finds a file called "Whte_rbt.obj" that he claims did it all.
+> - In _[The Matrix](https://en.wikipedia.org/wiki/The_Matrix "The Matrix")_, there are several metaphysical "waking up" metaphors that reference the Wonderland stories. Early in the film, [Neo](https://en.wikipedia.org/wiki/Neo_(The_Matrix) "Neo (The Matrix)") is told to follow the "White Rabbit" and seconds later, his doorbell rings, and when he opens the door he finds a woman with a tattoo of a white rabbit on her shoulder. Later in the film, [Morpheus](https://en.wikipedia.org/wiki/Morpheus_(The_Matrix) "Morpheus (The Matrix)") offers him the "[red pill](https://en.wikipedia.org/wiki/Red_pill_and_blue_pill "Red pill and blue pill")" to "[find out just how deep the rabbit hole goes](https://en.wiktionary.org/wiki/Special:_Search/down_the_rabbit_hole "wikt:Special: Search/down the rabbit hole")". Right before he meets [the Oracle](https://en.wikipedia.org/wiki/The_Oracle_(The_Matrix) "The Oracle (The Matrix)") one can see _[Night of the Lepus](https://en.wikipedia.org/wiki/Night_of_the_Lepus "Night of the Lepus")_ playing on a nearby television, symbolising Neo's decision to "follow the white rabbit" and to disturb the order of the Matrix.
+
+### Music
+> - [[Jefferson Airplane]] released [Grace Slick](https://en.wikipedia.org/wiki/Grace_Slick "Grace Slick")'s song "[White Rabbit](https://en.wikipedia.org/wiki/White_Rabbit_(song) "White Rabbit (song)")" on their 1967 album _[Surrealistic Pillow](https://en.wikipedia.org/wiki/Surrealistic_Pillow "Surrealistic Pillow")_, with references to the white rabbit character and the Wonderland saga in general as metaphors for drug-induced experiences.
+

@@ -2,7 +2,7 @@
 alias: System 7
 ---
 [wiki](https://en.wikipedia.org/wiki/System_7_(album))
-_**System 7**_ is the first studio [album](https://en.wikipedia.org/wiki/Album "Album") by the [dance](https://en.wikipedia.org/wiki/Dance_music "Dance music")/[ambient](https://en.wikipedia.org/wiki/Ambient_music "Ambient music") band [[T1F/System 7 (band)|System 7]]
+_**System 7**_ is the first studio [album](https://en.wikipedia.org/wiki/Album "Album") by the [dance](https://en.wikipedia.org/wiki/Dance_music "Dance music")/[ambient](https://en.wikipedia.org/wiki/Ambient_music "Ambient music") band [[System 7 (band)|System 7]]
 
 A somewhat different version was released in the [United States](https://en.wikipedia.org/wiki/United_States "United States") as _**777**_ by 777 #Num777. The running order is different, there are different mixes of two tracks (taken from the " #Miracle " single), and it has two tracks from the "Freedom Fighters" single – "Depth Disco" and "Mia". Just to confuse matters, _777_ was also the title of System 7's [second UK album](https://en.wikipedia.org/wiki/777_(System_7_album) "777 (System 7 album)"), with completely different music.
 
@@ -17,7 +17,7 @@ A somewhat different version was released in the [United States](https://en.wik
 |5|"Bon Humeur"|07:27|Hillage, Rowe & Giraudy|Hillage|Thrash|
 |6|" #Fractal Liaison"|02:09|May & Hillage|May & Hillage|mixed live to [DAT](https://en.wikipedia.org/wiki/Digital_Audio_Tape "Digital Audio Tape")|
 |7|"Dog"|05:52|Paterson, Hillage, Cousins & Giraudy|Hillage|Thrash|
-|8|"Thunderdog"|02:26|Paterson, Hillage & Giraudy|Hillage & Paterson|[[T1F/The Orb]]|
+|8|"Thunderdog"|02:26|Paterson, Hillage & Giraudy|Hillage & Paterson|[[The Orb]]|
 |9|"Listen"|06:23|May & Hillage|May & Hillage|Thrash|
 |10|"Strange Quotations"|06:36|Hillage, Michael MacNeil & Rowe|Hillage|—|
 |11|" #Miracle"|07:08|Paterson, [Paul Oakenfold](https://en.wikipedia.org/wiki/Paul_Oakenfold "Paul Oakenfold"), Hillage, Giraudy & [Andy Falconer](https://en.wikipedia.org/wiki/The_Orb "The Orb")|Hillage|Thrash|

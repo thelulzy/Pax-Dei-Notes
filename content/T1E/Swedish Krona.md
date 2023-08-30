@@ -1,9 +1,9 @@
-20 Krona note seen in [[T1E/IMG_CDIV.png]]
+20 Krona note seen in [[IMG_CDIV.png]]
 	Features: 
-		[[T1E/Astrid Lindgren]] 
-		3 [[T1E/Crown]]s
-		[[T1E/Pippi Longstocking]]
-		[[T1E/Steganography]]
+		[[Astrid Lindgren]] 
+		3 [[Crown]]s
+		[[Pippi Longstocking]]
+		[[Steganography]]
 			Colour-shifting image
 			Intaglio print
 				SVERIGESRIKSBANK
@@ -23,4 +23,4 @@
 				A childhood without books – that would be no childhood. That would be like being shut out from the enchanted place where you can go and find the rarest kind of joy. Astrid
 			
 
-[[T1E/Sweden]]
+[[Sweden]]

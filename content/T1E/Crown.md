@@ -1,1 +1,1 @@
-[[T1E/2) THE_FINALS_Kynezantama.png]] - wearing a crown
+[[2) THE_FINALS_Kynezantama.png]] - wearing a crown

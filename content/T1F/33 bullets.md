@@ -1,4 +1,4 @@
-![[T1F/Imgs/THE_FINALS_bullet_count.png]]]
+![[THE_FINALS_bullet_count.png]]]
 
 #Num33
 

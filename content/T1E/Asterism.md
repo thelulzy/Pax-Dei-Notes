@@ -1,3 +1,3 @@
 #aster 
-[[T1E/Star]]
+[[Star]]
 

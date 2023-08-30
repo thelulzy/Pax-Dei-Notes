@@ -1,4 +1,4 @@
 ---
-alias: Lapis
+alias: Lapis, rock
 ---
-[[T1E/7) THE_FINALS_NAMALAPIS.png]] filename Lapis means stone in #Latin 
+[[7) THE_FINALS_NAMALAPIS.png]] filename Lapis means stone in #Latin 

@@ -8,7 +8,7 @@ alias: Jupiter
 |Other names|Jove|
 |Venerated in|- [Imperial cult of ancient Rome](https://en.wikipedia.org/wiki/Imperial_cult_of_ancient_Rome "Imperial cult of ancient Rome")<br>- [Polytheistic religion](https://en.wikipedia.org/wiki/Religion_in_Ancient_Rome "Religion in Ancient Rome")|
 |Abode|the heavens|
-|Planet|[[T1F/Jupiter (planet)|Jupiter]]|
+|Planet|[[Jupiter (planet)\|Jupiter]]|
 |Symbol|[Lightning bolt](https://en.wikipedia.org/wiki/Thunderbolt "Thunderbolt"), [eagle](https://en.wikipedia.org/wiki/Eagle "Eagle"), [oak tree](https://en.wikipedia.org/wiki/Oak_tree "Oak tree")|
 |Day|[Thursday](https://en.wikipedia.org/wiki/Thursday "Thursday") (_dies Jovis_)|
 |Personal information|   |

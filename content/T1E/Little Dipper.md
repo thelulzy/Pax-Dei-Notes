@@ -1,1 +1,1 @@
-[[T1E/Asterism]]
+[[Asterism]]

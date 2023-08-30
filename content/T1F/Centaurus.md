@@ -1,5 +1,5 @@
 
-![[T1F/Imgs/Centaurus_IAU.jpg]]
+![[Centaurus_IAU.jpg]]
 
-#alpha [[T1F/Circle]]
+#alpha [[Circles hidden in Couples]]
 

@@ -5,7 +5,7 @@ alias: Mercury
 
 |   |   |
 |---|---|
-|Planet|[[T1F/Mercury (planet)|Mercury]]|
+|[[classical planets|Planet]]|[[Mercury (planet)\|Mercury]]|
 |Symbol|[Caduceus](https://en.wikipedia.org/wiki/Caduceus "Caduceus"), winged sandals, winged hat, tortoise, ram and rooster, #feather ?|
 |Day|[Wednesday](https://en.wikipedia.org/wiki/Wednesday "Wednesday") (_dies Mercurii_)|
 |Personal information|   |

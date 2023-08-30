@@ -1,1 +1,1 @@
-Daughter of [[T1E/Astrid Lindgren]]
+Daughter of [[Astrid Lindgren]]

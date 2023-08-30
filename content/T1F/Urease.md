@@ -1,7 +1,7 @@
  [wiki](https://en.wikipedia.org/wiki/Urease)
 
 >Urease-positive pathogens include:
--  [[T1F/Proteus (bacterium)|Proteus]]
+-  [[Proteus (bacterium)|Proteus]]
 - _[Ureaplasma urealyticum](https://en.wikipedia.org/wiki/Ureaplasma_urealyticum "Ureaplasma urealyticum")_, a relative of _[Mycoplasma](https://en.wikipedia.org/wiki/Mycoplasma "Mycoplasma")_ spp.
 - _[Nocardia](https://en.wikipedia.org/wiki/Nocardia "Nocardia")_
 - _[Corynebacterium urealyticum](https://en.wikipedia.org/wiki/Corynebacterium_urealyticum "Corynebacterium urealyticum")_

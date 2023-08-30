@@ -1,2 +1,2 @@
-Symbol for [[T1E/Gold]]
-Can also be [[T1E/Astronomical Units]]
+Symbol for [[Gold]]
+Can also be [[Astronomical Units]]

@@ -1,1 +1,1 @@
-One of the three most common naturally occurring #crystal forms of calcium carbonate ([[T1E/CaCO3]])
+One of the three most common naturally occurring #crystal forms of calcium carbonate ([[CaCO3]])

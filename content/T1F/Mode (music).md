@@ -1,3 +1,3 @@
 
-[[T1F/Diatonic Scale]]  
+[[Diatonic Scale]]  
 #Mod

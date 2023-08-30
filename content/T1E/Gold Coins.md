@@ -1,3 +1,3 @@
-[[T1E/THE FINALS]] features them prominently.
+[[THE FINALS]] features them prominently.
 
-Made of [[T1E/Gold]] (or Nordic Gold)
+Made of [[Gold]] (or Nordic Gold)

@@ -1,5 +1,5 @@
+#Ultra
 [wiki](https://en.wikipedia.org/wiki/The_Orb%27s_Adventures_Beyond_the_Ultraworld "The Orb's Adventures Beyond the Ultraworld")
-
 
 Disc one
 
@@ -8,7 +8,7 @@ Disc one
 |No.|Title|Music|Length|
 |1.|"Little Fluffy Clouds"|Paterson, Glover|4:27|
 |2.|"Earth (Gaia)"|Paterson, Weston|9:48|
-|3.|"Supernova at the End of the Universe"|Paterson, Giraudy, Hillage|11:56|
+|3.|"Supernova at the End of the #Universe"|Paterson, Giraudy, Hillage|11:56|
 |4.|"Back Side of the Moon"|Paterson, Giraudy, Hillage|14:15|
 |5.|"Spanish Castles in Space"|Paterson, le Mesurier, Pratt|15:05|
 |Total length:|   |   |55:31|
@@ -18,11 +18,11 @@ Disk two
 |   |   |   |   |
 |---|---|---|---|
 |No.|Title|Music|Length|
-|1.|"Perpetual Dawn"|Paterson, Maiden|9:31|
+|1.|"Perpetual #Dawn"|Paterson, Maiden|9:31|
 |2.|"Into the Fourth Dimension"|Paterson, Falconer, Ferguson|9:16|
 |3.|"Outlands"|Paterson, Fehlmann|8:23|
 |4.|"Star 6 & 7 8 9"|Paterson, Green, Vickers|8:10|
-|5.|"A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld" (Live Mix Mk 10)|Paterson, Cauty, Riperton, Rudolph, Darlow, Lipson, Woolley, Horn|18:49|
+|5.|"[[A Huge Ever Growing Pulsating Brain That Rules from the Centre of the Ultraworld]]" (Live Mix Mk 10)|Paterson, Cauty, Riperton, Rudolph, Darlow, Lipson, Woolley, Horn|18:49|
 |Total length:|   |   |54:07|
 
 
@@ -69,7 +69,7 @@ Disc three
     - A vocal excerpt from "[Miserere](https://en.wikipedia.org/wiki/Miserere_(Allegri) "Miserere (Allegri)")" by [Gregorio Allegri](https://en.wikipedia.org/wiki/Gregorio_Allegri "Gregorio Allegri").
     - An excerpt from the 2nd Movement of the "L'amoroso" Violin Concerto in E major, RV271 by [Antonio Vivaldi](https://en.wikipedia.org/wiki/Antonio_Vivaldi "Antonio Vivaldi").
 - **"Outlands"**
-    - "[Love Without Sound](https://en.wikipedia.org/wiki/An_Electric_Storm "An Electric Storm")" by [[T1F/White Noise (band)|White Noise]] #love
+    - "[Love Without Sound](https://en.wikipedia.org/wiki/An_Electric_Storm "An Electric Storm")" by [[White Noise (band)|White Noise]] #love
     - "Blackboard Jungle Dub" by [Lee "Scratch" Perry](https://en.wikipedia.org/wiki/Lee_%22Scratch%22_Perry "Lee "Scratch" Perry")
     - "A Conversation with Rickie Lee Jones" by [Rickie Lee Jones](https://en.wikipedia.org/wiki/Rickie_Lee_Jones "Rickie Lee Jones"), an interview from a promotional CD which came with some copies of her album _[Flying Cowboys](https://en.wikipedia.org/wiki/Flying_Cowboys "Flying Cowboys")_. This sample was the subject of litigation.
     - "Some Love" by [New Age Steppers](https://en.wikipedia.org/wiki/New_Age_Steppers "New Age Steppers") #love

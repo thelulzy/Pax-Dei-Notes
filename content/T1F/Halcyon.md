@@ -1,5 +1,5 @@
 [wiki](https://en.wikipedia.org/wiki/Halcyon_(Orbital_song) "Halcyon (Orbital song)")
-"**Halcyon**" is a song written and performed by [Orbital](https://en.wikipedia.org/wiki/Orbital_(band) "Orbital (band)"), dedicated to [Paul Hartnoll](https://en.wikipedia.org/wiki/Paul_Hartnoll "Paul Hartnoll")'s mother, who was addicted to the tranquilliser [[T1F/Halcion]] for many years. It was released as _**Radiccio EP**_ in the UK and Japan, and as _**Halcyon EP**_ in the US.
+"**Halcyon**" is a song written and performed by [Orbital](https://en.wikipedia.org/wiki/Orbital_(band) "Orbital (band)"), dedicated to [Paul Hartnoll](https://en.wikipedia.org/wiki/Paul_Hartnoll "Paul Hartnoll")'s mother, who was addicted to the tranquilliser [[Halcion]] for many years. It was released as _**Radiccio EP**_ in the UK and Japan, and as _**Halcyon EP**_ in the US.
 
 ## History
 

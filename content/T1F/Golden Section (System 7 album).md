@@ -2,10 +2,10 @@
 alias: Golden Section
 ---
 
-Golden Section is a byproduct/synonym of [[T1F/Golden Ratio]]
+Golden Section is a byproduct/synonym of [[Golden Ratio]]
 
 [Butterfly](https://en.wikipedia.org/wiki/Butterfly_Recordings)/[Big Life](https://en.wikipedia.org/wiki/Big_Life "Big Life") #Butterfly
-Hypnotic ([Cleopatra](https://en.wikipedia.org/wiki/Cleopatra_Records "Cleopatra Records")) [[T1F/Egypt]]
+Hypnotic ([Cleopatra](https://en.wikipedia.org/wiki/Cleopatra_Records "Cleopatra Records")) [[Egypt]]
 
 |#|Track|Length|Written & produced by|Mixed by|
 |---|---|---|---|---|
