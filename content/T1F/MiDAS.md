@@ -24,3 +24,13 @@
 > Sarah Morris demonstrated (Morris, 2004) that donkeys' ears were a Bronze Age royal attribute, borne by King [Tarkasnawa](https://en.wikipedia.org/wiki/Tarkasnawa "Tarkasnawa") (Greek Tarkondemos) of [Mira](https://en.wikipedia.org/wiki/Arzawa "Arzawa"), on a seal inscribed in both [Hittite](https://en.wikipedia.org/wiki/Hittite_language "Hittite language") cuneiform and [Luwian](https://en.wikipedia.org/wiki/Luwian "Luwian") hieroglyphs. In this connection, the myth would appear for Greeks to justify the exotic attribute.
 
 > The stories of the contests with Apollo of Pan and Marsyas were very often confused, so [Titian](https://en.wikipedia.org/wiki/Titian "Titian")'s _[Flaying of Marsyas](https://en.wikipedia.org/wiki/Flaying_of_Marsyas_(Titian) "Flaying of Marsyas (Titian)")_ includes a figure of Midas (who may be a self-portrait), though his ears seem normal.
+
+---
+alias: Missile Defense Alarm System
+---
+[wiki](https://en.wikipedia.org/wiki/Missile_Defense_Alarm_System)
+
+Rob spelled a `Embark|Midas`'s name just like this:
+![[T1F/Imgs/Rob comms/SR_MiDAS.png]]
+
+#TODO
