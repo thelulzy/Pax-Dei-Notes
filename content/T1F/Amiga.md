@@ -19,4 +19,4 @@
 
 ### Special purpose applications
 > - Amigas were used in various [NASA](https://en.wikipedia.org/wiki/NASA "NASA") laboratories to keep track of low orbiting #satellite s until 2004. Amigas were used at Kennedy Space Center to run strip-chart recorders, to format and display data, and control stations of platforms for [Delta rocket](https://en.wikipedia.org/wiki/Delta_(rocket_family) "Delta (rocket family)") launches.
-> - [Palomar Observatory](https://en.wikipedia.org/wiki/Palomar_Observatory "Palomar Observatory") used Amigas to calibrate and control the [charge-coupled devices](https://en.wikipedia.org/wiki/Charge-coupled_device "Charge-coupled device") in their [[telescope]]s, as well as to display and store the digitized images they collected.
+> - [Palomar Observatory](https://en.wikipedia.org/wiki/Palomar_Observatory "Palomar Observatory") used Amigas to calibrate and control the [charge-coupled devices](https://en.wikipedia.org/wiki/Charge-coupled_device "Charge-coupled device") in their [[Telescope]]s, as well as to display and store the digitized images they collected.

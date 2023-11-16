@@ -1,5 +1,5 @@
 
 ![[RockhoundBlackRomanceDiamond.png]]
-#Rob #Eyed #DiamondClue #Diamond #love 
-
+#DiamondClue #Diamond #love 
+Eyed by Rob
 ![[RockhoundBlackTier2ClueRelation.png]]
