@@ -4,7 +4,7 @@
 An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1035165560092250222) to the brand new \#official-art the next day: 
 ![[friend_you_need_03.png]]
 
-# 1. Roman
+# 1) Roman
 The only known clue from this image is the depiction of Namatama as a Roman, hinting toward the use of Roman Numerals in the password.
 
 Namatama is wearing a [Galea](https://en.wikipedia.org/wiki/Galea_(helmet))
