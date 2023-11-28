@@ -8,7 +8,11 @@ I have begun documenting past tiers, primarily using [Flex4d's TFEE document](ht
 ___
 
 T1A [[T1A/index|index]]
+
 T1B [[T1B/index|index]]
+
 T1C [[T1C/index|index]]
 
-I haven't properly documented the tiers after this. My personal notes for later tiers are still in this vault. Expect them to be wild and unhinged.
+T1D [[T1D/index|index]]
+
+I haven't properly documented the tiers after this. My personal notes for tiers E and F are still in this vault. Expect them to be wild and unhinged.
