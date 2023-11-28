@@ -1,5 +1,5 @@
 ---
-title: T1B index
+title: T1B
 ---
 [[THE_FINALS_OSPUZE]]
 [[OSPUZE_Candy_01]]

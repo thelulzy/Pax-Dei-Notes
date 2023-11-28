@@ -1,5 +1,5 @@
 ---
-title: T1C index
+title: T1C
 ---
 [[Promo_ISEULT_Candy_]]
 [[Promo_ISEULT_Candy_2]]
