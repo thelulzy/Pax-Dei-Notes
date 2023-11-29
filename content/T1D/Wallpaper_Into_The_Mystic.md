@@ -26,7 +26,7 @@ Leetspeek conversion of S melongena, also known as Eggplant
 #Unsolved Putting the unsolved tag here because we need to figure out how to better extract this
 
 # 8) Guldenmann
-Not actually found until [Rob made a post](https://discord.com/channels/1008696016318513243/1011929497139953744/1078037768753664110) revealing the clue, despite being relatively easy to reveal. 
+Not actually found until [Rob made a post](https://discord.com/channels/1008696016318513243/1011929497139953744/1078037768753664110) revealing the clue, despite being relatively easy to reveal by applying a levels adjustment when looking at only the blue channel.
 
 # 9) X<sup>th</sup>
 

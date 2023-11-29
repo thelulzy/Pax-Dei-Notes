@@ -2,8 +2,8 @@
 > Wow, I just found this "404 errors may be momentary glitches that you can resolve by refreshing your web browser on a page."... that could be useful, I will keep that in mind... .\_.
 
 A minute later, after users had discovered the updated content of the T1C URL, a higher resolution version of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1043565435980873778) to the \#official-art channel:
-![[THE_FINALS_Wallpaper_Brown_Eyed_Girl_2880x1620.png| 1300]]
- ![[THE_FINALS_Wallpaper_Brown_Eyed_Girl_2880x1620_clues.png | 1300]]
+![[THE_FINALS_Wallpaper_Brown_Eyed_Girl_2880x1620.png| 2000]]
+![[THE_FINALS_Wallpaper_Brown_Eyed_Girl_2880x1620_clues.png | 2000]]
 
 # 0) Top Row Transparent Pixels
 In the top row there are transparent pixels at the y positions 0, 45, 70, 115, 127, 161.
@@ -31,4 +31,5 @@ A stack of 13 objects, interpreted to be Euclid's ***The Thirteen Books** of the
 
 # 7)110D631
 #Unsolved 
-It is contested where the 5th character is A 6 or an 8. Here I've presented a comparison in an attempt to provide an objective analysis ![[6vs8_analysis.gif | 800]]
+It is contested where the 5th character is A 6 or an 8. Here I've presented a comparison in an attempt to provide an objective analysis:
+![[6vs8_analysis.gif | 800]]

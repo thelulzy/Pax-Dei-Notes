@@ -6,5 +6,5 @@
 
 An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1040306739481944104) to the \#official-art channel: 
 
-![[THE_FINALS_a_friend_you_APPARENTLY_dont_need.png]]
+![[THE_FINALS_a_friend_you_APPARENTLY_dont_need.png | 1000]]
  No clues have been found hidden in this image. AFAIK Namatama images with transparent backgrounds don't contain clues.

@@ -1,10 +1,12 @@
 Upon solving T1A the [password page](https://www.reachthefinals.com/t1-a) was replaced to instead have an image of THE_FINALS_Promo_OSPUZE_Weapons_1920x1080.png. 
 A higher resolution copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034504554085097583) to the brand new \#official-art channel when it was 
-made two weeks later: ![[THE_FINALS_OSPUZE.png | 1300]]
+made two weeks later:
+![[THE_FINALS_OSPUZE.png | 2000]]
 # Pigpen cipher
 
 With some light photo editing a hidden pigpen cipher was found in the image ([credit](https://discord.com/channels/1008696016318513243/1011929497139953744/1029453835057496084)). 
-The cipher can be found using many techniques; here I've shown how it can be found by adjusting curves in the photo (it's faint, but it's there): ![[OSPUZE_pigpen.png | 1300]]
+The cipher can be found using many techniques; here I've shown how it can be found by adjusting curves in the photo (it's faint, but it's there):
+![[OSPUZE_pigpen.png | 2000]]
 The characters for the cipher [were quickly identified](https://discord.com/channels/1008696016318513243/1011929497139953744/1029457222369030185). Here I've isolated only the cipher:
 ![[OSPUZE_pigpen_only.png]]
 
@@ -16,7 +18,8 @@ For cipher characters that have double lines use the upper right key from the wi
 [This was quickly found](https://discord.com/channels/1008696016318513243/1011929497139953744/1029674085816479777) to be a reference to Frank Kramer, the credited name of director [[Gianfranco Parolini]].
 
 ---
-# The below clues are all apparent in the unedited image. Use this image as reference for locating them: ![[OSPUZE_apparent_clues.png | 1300]]
+# The below clues are all apparent in the unedited image. Use this image as reference for locating them:
+![[OSPUZE_apparent_clues.png | 2000]]
 # 1. mmisar X
 Around the same time [[Gianfranco Parolini]] was mentioned the text "mmisar X" was found on the [M60](https://www.thefinals.wiki/wiki/M60). The beginning of the text was occluded by the bullet feed, however the recently solved pigpen clue pointing Frank Kramer helped [immediately discover](https://discord.com/channels/1008696016318513243/1011929497139953744/1029673983156690984) that this textm was referring to a film he directed named [[Kommissar X]].
 
@@ -32,6 +35,7 @@ On the Ospuze sheriff badge strapped to the forestock of the M60 there is a lett
 
 # 4. 832 #num832
 The presence of 8 bullets strapped to the [M11](https://www.thefinals.wiki/wiki/M11) alongside the number "32" stamped into the gun pointed toward "Ab urbe condita 832" - a representation of the year AD 79 in a different calendar system. 
-Looking at the [AD 79 Wikipedia page](https://en.wikipedia.org/wiki/AD_79) the roman numeral password is present between AD 79 and Ab urb condita 832.  ![832](https://media.discordapp.net/attachments/1011929497139953744/1038421217050382336/image.png)
+Looking at the [AD 79 Wikipedia page](https://en.wikipedia.org/wiki/AD_79) the roman numeral password is present between AD 79 and Ab urb condita 832.  
+![832](https://media.discordapp.net/attachments/1011929497139953744/1038421217050382336/image.png)
 
 

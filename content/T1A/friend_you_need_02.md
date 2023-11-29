@@ -1,4 +1,4 @@
-![[friend_you_need_02.jpg]]
+![[friend_you_need_02.jpg | 1500]]
 
 Originally [posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1029416197797716061) in the \#easter-eggs channel; an identical version was later [reposted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034397097077780560) when \#official-art was started. 
 

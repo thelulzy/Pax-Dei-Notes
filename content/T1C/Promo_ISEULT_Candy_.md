@@ -1,5 +1,6 @@
-Upon completing T1B hunters were rewarded with the newest image. A much higher resolution version was then uploaded to the \#official-art channel [here](https://discord.com/channels/1008696016318513243/1031539174743998526/1036205427588857946):![[THE_FINALS_Promo_ISEULT_Candy_.png | 1300]]
- ![[THE_FINALS_Promo_ISEULT_Candy_clues.png | 1300]]
+Upon completing T1B hunters were rewarded with the newest image. A much higher resolution version was then uploaded to the \#official-art channel [here](https://discord.com/channels/1008696016318513243/1031539174743998526/1036205427588857946):
+![[THE_FINALS_Promo_ISEULT_Candy_.png | 2000]]
+![[THE_FINALS_Promo_ISEULT_Candy_clues.png | 2000]]
 
 # 1) AA - Anders Ångström
 There are two lone "A" characters in the image. The first is located on the rear sight tower of the [AKM](https://www.thefinals.wiki/wiki/AKM) (above the foregrip), while the second is on the buttstock of the [M60](https://www.thefinals.wiki/wiki/M60). 
@@ -18,7 +19,7 @@ The substitution of Roman numerals for the 3 in the Russian name allude to the r
 Pink Floyd's dark side of the moon
 
 The ***pink*** equilateral triangle was interpreted as a nod to ***Pink*** Floyd's album [Dark Side of the Moon](https://en.wikipedia.org/wiki/The_Dark_Side_of_the_Moon), as the album cover features an equilateral triangle. The name of the album serves as another nod to Luna 3, while the album cover is a nod to spectroscopy because of the light refraction and dispersion. 
-![album cover](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Dark_Side_of_the_Moon_Cover.svg)
+![album cove | 500](https://upload.wikimedia.org/wikipedia/commons/c/c7/The_Dark_Side_of_the_Moon_Cover.svg)
 
 # 4) 118
 There are 118 known elements.

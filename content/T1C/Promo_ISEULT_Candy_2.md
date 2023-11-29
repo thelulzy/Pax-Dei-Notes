@@ -1,14 +1,16 @@
 [Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1037777259681026069) the new image with the following caption:
 > Hi.! Some new candy from our sponsors, hope you like it.!
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1037777303742205974) to the \#official-art channel:![[THE_FINALS_Promo_ISEULT_Candy_2.png | 1300]]
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1037777303742205974) to the \#official-art channel:
+![[THE_FINALS_Promo_ISEULT_Candy_2.png | 2000]]
 
- ![[THE_FINALS_Promo_ISEULT_Candy_2_clues.png | 1300]]
+![[THE_FINALS_Promo_ISEULT_Candy_2_clues.png | 2000]]
 # 1) A
 Angstrom
 
 # 2) 2.75 3.26
 Violet light has photon energy of 2.75–3.26 [eV](https://simple.wikipedia.org/wiki/Electronvolt "Electronvolt")
+
 # 3) 29.9N 41.6W
 These are the coordinates of the [Angström crater](https://en.wikipedia.org/wiki/Angstr%C3%B6m_(crater)) on the moon.
 The characters "N" and "W" are a violet color.

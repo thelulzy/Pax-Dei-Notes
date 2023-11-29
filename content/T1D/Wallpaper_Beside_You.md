@@ -32,8 +32,12 @@ White house phone number (oval office)
 # 7) Sergels Torg
 
 
-# 8) Oval shaped iris
+# 8) -- .. --
+Not found until revealed in a [post from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1078038418602340462).
+Morse for MOM: Mars ORBITAL Mission
+
+# 9) Oval shaped iris
 
 
-# 9) Water drop unknown text (?)
+# 10) Water drop unknown text (?)
 #Unsolved

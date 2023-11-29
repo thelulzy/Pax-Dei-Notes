@@ -2,10 +2,12 @@
 > A little gift from OSPUZE... Have a nice weekend... .\_.
 
 An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1035157380469620736) to the brand new \#official-art channel when it was 
-made two weeks later: ![[THE_FINALS_Promo_OSPUZE_Candy_01.png | 1300]]
+made two weeks later:
+![[THE_FINALS_Promo_OSPUZE_Candy_01.png | 2000]]
 
 # 190B 01 1B151A01
-A single plainly visible clue [has been found](https://discord.com/channels/1008696016318513243/1011929497139953744/1030569466481885274) in the image: ![[Candy_apparent_clues.png | 1300]]
+A single plainly visible clue [has been found](https://discord.com/channels/1008696016318513243/1011929497139953744/1030569466481885274) in the image:
+![[Candy_apparent_clues.png | 2000]]
 The text is more legible when adjustments are made to the image ([credit](https://discord.com/channels/1008696016318513243/1011929497139953744/1030570013935009872)):
 ![img](https://cdn.discordapp.com/attachments/1011929497139953744/1030570013536563210/Screen_Shot_2022-10-14_at_3.57.08_PM.png)
 

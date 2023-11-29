@@ -2,9 +2,10 @@
 > Hi there.! 
 > This little thing is bound to make you happy.!
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1040306739481944104) to the \#official-art channel: ![[THE_FINALS_Promo_ISEULT_Candy_4.png | 1300]]
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1040306739481944104) to the \#official-art channel:
+![[THE_FINALS_Promo_ISEULT_Candy_4.png | 2000]]
 
- ![[THE_FINALS_Promo_ISEULT_Candy_4_clues.png | 1300]]
+![[THE_FINALS_Promo_ISEULT_Candy_4_clues.png | 2000]]
 
 # 1) 1s 2s
 First 2 shells for an electron configuration
@@ -23,6 +24,7 @@ Likely to guide our thinking toward electrons & thus electron configurations
 
 # 6) 10-31
 #Unsolved 
-There was speculation that this was pointing us toward a date we may have been getting close to solving the 
+There was speculation that this was pointing us toward a date we may have been getting close to solving the tier.
+
 # 7) 0
 #unsolved

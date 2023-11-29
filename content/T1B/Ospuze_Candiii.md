@@ -2,9 +2,10 @@
 > Hi there.!
 > Looks like OSPUZE had some extra candy in the bag.!!!
 
-An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034504554085097583) to the brand new \#official-art the next day: ![[THE_FINALS_Promo_OSPUZE_Candiii_.png | 1300]]
+An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034504554085097583) to the brand new \#official-art the next day:
+![[THE_FINALS_Promo_OSPUZE_Candiii_.png | 2000]]
 
- ![[OSPUZE_Candiii_clues.png | 1300]]
+![[OSPUZE_Candiii_clues.png | 2000]]
 # 0) Cand*iii*
 The title of the image is a clue itself. This is the third "candy" image provided, and iii represents 3 in Roman numerals. It is possible that this was also alluding to the password cacoiii in T1E.
 
