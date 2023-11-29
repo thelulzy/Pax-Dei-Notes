@@ -12,7 +12,7 @@ Referring to [grook](https://en.wikipedia.org/wiki/Grook)
 
 # 2) x2 + \[1.4^x\*1.6y]2
 When set equal to one, this forms an equation which depicts an egg when graphed
-![[Pasted image 20231128173509.png]]
+![[Egg_equation_graph.png]]
 
 # 3) Johannes Kepler's Signature
 [wiki](https://en.wikipedia.org/wiki/Johannes_Kepler)
@@ -32,7 +32,7 @@ White house phone number (oval office)
 # 7) Sergels Torg
 
 
-# 8) -- .. --
+# 8) \-- .. \--
 Not found until revealed in a [post from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1078038418602340462).
 Morse for MOM: Mars ORBITAL Mission
 
