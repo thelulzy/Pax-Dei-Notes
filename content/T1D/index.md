@@ -8,9 +8,13 @@
 
 [[Wallpaper_Keep_It_Simple]]
 
-[[namatama_xmas_2022]]
+[[namatama_xmas_2022]] (Confirmed no EEs)
 
-[[THE_FINALS_HappyNamaTama_2023]]
+[[HappyNamaTama_2023]]
 
 [[T1D/404.jpg|404.jpg]]
+
+[[007.jpg]]
+
+[[a_friend_u_missed]]
 
