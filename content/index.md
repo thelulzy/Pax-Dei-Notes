@@ -1,7 +1,7 @@
 ---
-title: Lulz' TFEE mind palace
+title: THE FINALS history 
 ---
-Welcome to my web of thoughts and research regarding THE FINALS Easter Egg Hunt. I joined in on the hunt during T2E, an thus the majority of *my* research begins there and works forward.
+Welcome to my web of thoughts and research regarding the history of THE FINALS Easter Egg Hunt. 
 
 I have begun documenting past tiers, primarily using [Flex4d's TFEE document](https://docs.google.com/document/d/1CLzGtj2w2elVkqEdPV6NgqRiszNAxnwIANXHK-Pa1Bk)
 
@@ -15,4 +15,4 @@ T1C [[T1C/index|index]]
 
 T1D [[T1D/index|index]]
 
-I haven't properly documented the tiers after this. My personal notes for tiers E and F are still in this vault. Expect them to be wild and unhinged.
+I haven't yet documented the tiers after this. 

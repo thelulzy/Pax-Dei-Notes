@@ -1,10 +1,5 @@
----
-title: Lulz' TFEE mind palace
----
+This is an [Obsidian](https://obsidian.md/) vault hosted as a website using [Quartz](https://github.com/jackyzha0/quartz).
 
-Welcome to my web of thoughts and research regarding THE FINALS Easter Egg Hunt. I joined in on the dunt during T2E, an thus the majority of my research begins there and works forward.
+It is very much a work in progress as I am simultaneously learning multiple technologies which are more or less new to me (Obsidian, Quartz, Quartz dependencies, Photoshop) as well as researching past tiers from the Easter Egg hunt, which occured prior to me joining the hunt.
 
-This is a work in progress. Much of my original note taking was less organized, and thus lacks som eof the more detailed sourcing that I'm striving for now.
-
-Certain aspects of my local Obsidian notes do not translate well to Quartz in its current state. For example, in Obisidian, inline tags can be viewed on a graph, while Quartz does not yet support this.
-Thus many of my notes appear diconnected in the Quartz graph, despite being connected by a tag.
+I am making steady progress, so bear with me! 
