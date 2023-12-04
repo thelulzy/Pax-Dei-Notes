@@ -14,30 +14,34 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Saira",
+        body: "Saira",
+        code: "Saira",
       },
+//          red: "#d21f3c"
+//          white: "#e5e6e8"
+//          black: "#1d1a20"
+//          yellow: "#f7bb2b"
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#d21f3c",
+          lightgray: "#e5e6e8",
+          gray: "#e5e6e8",
+          darkgray: "#e5e6e8",
+          dark: "#e5e6e8",
+          secondary: "#e5e6e8",
+          tertiary: "#f7bb2b",
+          highlight: "#1d1a20",
         },
         darkMode: {
-          light: "#161618",
+          light: "#1d1a20",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          dark: "#e5e6e8",
+          secondary: "#d21f3c",
+          tertiary: "#e5e6e8",
+          highlight: "#f7bb2b",
         },
       },
     },
@@ -50,6 +54,7 @@ const config: QuartzConfig = {
         priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
       Plugin.SyntaxHighlighting(),
+      Plugin.HardLineBreaks(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

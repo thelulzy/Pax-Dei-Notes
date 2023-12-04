@@ -7,7 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://thelulzy.github.io/TF-EE-quartz-obsidian-vault/",
+      GitHub: "https://github.com/thelulzy/TF-EE-quartz-obsidian-vault",
       "Discord Community": "https://discord.gg/thefinals",
     },
   }),
@@ -46,3 +46,7 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+})
