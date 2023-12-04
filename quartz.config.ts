@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#d21f3c",
-          lightgray: "#e5e6e8",
+          lightgray: "#1d1a20",
           gray: "#e5e6e8",
           darkgray: "#e5e6e8",
           dark: "#e5e6e8",
@@ -51,7 +51,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.HardLineBreaks(),
