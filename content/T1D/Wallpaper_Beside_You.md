@@ -1,6 +1,6 @@
-[Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1050825892231913582) the new image to \#easter-eggs without any accompanying message.
+[Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1050825892231913582) the new image to <label>#</label>easter-eggs without any accompanying message.
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1050825928114176030) to the \#official-art channel:
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1050825928114176030) to the <label>#</label>official-art channel:
 ![[THE_FINALS_Wallpaper_Beside_You_2880x1620.png | 2000]]
  
 ![[THE_FINALS_Wallpaper_Beside_You_2880x1620_clues.png | 2000]]

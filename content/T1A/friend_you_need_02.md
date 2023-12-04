@@ -1,6 +1,6 @@
 ![[friend_you_need_02.jpg | 1500]]
 
-Originally [posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1029416197797716061) in the \#easter-eggs channel; an identical version was later [reposted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034397097077780560) when \#official-art was started. 
+Originally [posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1029416197797716061) in the <label>#</label>easter-eggs channel; an identical version was later [reposted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034397097077780560) when <label>#</label>official-art was started. 
 
 The image was [immediately identified](https://discord.com/channels/1008696016318513243/1011929497139953744/1029416708437463143) to be [[Galileo Galilei]].
 

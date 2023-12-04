@@ -1,7 +1,7 @@
 [Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1043565169315434537) a message to alert us that [[404 (gif)|404 (gif)]] had been replaced by a new image:
 > Wow, I just found this "404 errors may be momentary glitches that you can resolve by refreshing your web browser on a page."... that could be useful, I will keep that in mind... .\_.
 
-A minute later, after users had discovered the updated content of the T1C URL, a higher resolution version of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1043565435980873778) to the \#official-art channel:
+A minute later, after users had discovered the updated content of the T1C URL, a higher resolution version of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1043565435980873778) to the <label>#</label>official-art channel:
 ![[THE_FINALS_Wallpaper_Brown_Eyed_Girl_2880x1620.png| 2000]]
 ![[THE_FINALS_Wallpaper_Brown_Eyed_Girl_2880x1620_clues.png | 2000]]
 

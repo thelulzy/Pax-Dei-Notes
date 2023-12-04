@@ -2,7 +2,7 @@
 > Hi there.! 
 > GLHF...(and we hope you like this little gift from our sponsors.!)
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1039297544716550244) to the \#official-art channel:
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1039297544716550244) to the <label>#</label>official-art channel:
 ![[THE_FINALS_Promo_ISEULT_Candy_3.png | 2000]]
 ![[THE_FINALS_Promo_ISEULT_Candy_3_clues.png | 2000]]
 # 1) Iris Sibirica

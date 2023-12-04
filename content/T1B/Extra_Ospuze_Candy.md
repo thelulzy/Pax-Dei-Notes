@@ -1,7 +1,7 @@
 [Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1033143281661526046)the new image with the following caption:
 > Hi there.! Hope you all will have a great weekend.! Here is some extra candy from one of our sponsors to enlighten your day... ._.
 
-An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1035157401764110437) to the brand new \#official-art channel when it was 
+An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1035157401764110437) to the brand new <label>#</label>official-art channel when it was 
 made four days later:
 ![[THE_FINALS_Extra_OSPUZE_Candy.jpg | 2000]]
 # The below clues are all apparent in the unedited image. Use this image as reference for locating them:

@@ -1,4 +1,4 @@
-Upon completing T1B hunters were rewarded with the newest image. A much higher resolution version was then uploaded to the \#official-art channel [here](https://discord.com/channels/1008696016318513243/1031539174743998526/1036205427588857946):
+Upon completing T1B hunters were rewarded with the newest image. A much higher resolution version was then uploaded to the <label>#</label>official-art channel [here](https://discord.com/channels/1008696016318513243/1031539174743998526/1036205427588857946):
 ![[THE_FINALS_Promo_ISEULT_Candy_.png | 2000]]
 ![[THE_FINALS_Promo_ISEULT_Candy_clues.png | 2000]]
 

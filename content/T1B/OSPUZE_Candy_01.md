@@ -1,7 +1,7 @@
 [Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1030567417132359680) the new image with the following caption:
 > A little gift from OSPUZE... Have a nice weekend... .\_.
 
-An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1035157380469620736) to the brand new \#official-art channel when it was 
+An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1035157380469620736) to the brand new <label>#</label>official-art channel when it was 
 made two weeks later:
 ![[THE_FINALS_Promo_OSPUZE_Candy_01.png | 2000]]
 

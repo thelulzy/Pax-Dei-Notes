@@ -2,7 +2,7 @@
 > Hi there.! 
 > As prmised, here is an extra little gift for you, have a great day and enjoy.!
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1055174239411503165) to the \#official-art channel:
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1055174239411503165) to the <label>#</label>official-art channel:
 ![[THE_FINALS_Wallpaper_Keep_It_Simple_2160x2880.png | 1000]]
 
 ![[THE_FINALS_Wallpaper_Keep_It_Simple_2160x2880_clues.png | 1000]]

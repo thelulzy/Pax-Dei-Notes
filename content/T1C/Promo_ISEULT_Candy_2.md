@@ -1,7 +1,7 @@
 [Rob posted](https://discord.com/channels/1008696016318513243/1011929497139953744/1037777259681026069) the new image with the following caption:
 > Hi.! Some new candy from our sponsors, hope you like it.!
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1037777303742205974) to the \#official-art channel:
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1037777303742205974) to the <label>#</label>official-art channel:
 ![[THE_FINALS_Promo_ISEULT_Candy_2.png | 2000]]
 
 ![[THE_FINALS_Promo_ISEULT_Candy_2_clues.png | 2000]]

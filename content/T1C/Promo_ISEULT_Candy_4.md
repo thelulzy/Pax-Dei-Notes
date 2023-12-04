@@ -2,7 +2,7 @@
 > Hi there.! 
 > This little thing is bound to make you happy.!
 
-An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1040306739481944104) to the \#official-art channel:
+An identical copy of the image was immediately [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1040306739481944104) to the <label>#</label>official-art channel:
 ![[THE_FINALS_Promo_ISEULT_Candy_4.png | 2000]]
 
 ![[THE_FINALS_Promo_ISEULT_Candy_4_clues.png | 2000]]
