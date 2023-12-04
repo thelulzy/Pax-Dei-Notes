@@ -2,7 +2,7 @@
 > Hi there.!
 > Looks like OSPUZE had some extra candy in the bag.!!!
 
-An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034504554085097583) to the brand new <label>#</label>official-art the next day:
+An identical copy of the image was [posted](https://discord.com/channels/1008696016318513243/1031539174743998526/1034504554085097583) to the brand new <label>#</label>official-art channel the next day:
 ![[THE_FINALS_Promo_OSPUZE_Candiii_.png | 2000]]
 
 ![[OSPUZE_Candiii_clues.png | 2000]]
