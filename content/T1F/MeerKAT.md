@@ -1,7 +1,0 @@
-[[Arc Raiders]] (Don't enforce NDA pls)
-[wiki](https://en.wikipedia.org/wiki/MeerKAT "MeerKAT")
-
-**MeerKAT**, originally the **Karoo Array [[Telescope]]**, is a [radio telescope](https://en.wikipedia.org/wiki/Radio_telescope "Radio telescope") consisting of 64 antennas in the [Meerkat National Park](https://en.wikipedia.org/wiki/Meerkat_National_Park "Meerkat National Park"), in the [Northern Cape](https://en.wikipedia.org/wiki/Northern_Cape "Northern Cape") of South Africa. In 2003, South Africa submitted an expression of interest to host the [Square Kilometre Array](https://en.wikipedia.org/wiki/Square_Kilometre_Array "Square Kilometre Array") (SKA) Radio Telescope in Africa, and the locally designed and built MeerKAT was incorporated into the first phase of the SKA. MeerKAT was launched in 2018.
-
-Along with the [Hydrogen Epoch of Reionization Array](https://en.wikipedia.org/wiki/Hydrogen_Epoch_of_Reionization_Array "Hydrogen Epoch of Reionization Array") (HERA), also in South Africa, and two [radio telescopes](https://en.wikipedia.org/wiki/Radio_telescope "Radio telescope") in [Western Australia](https://en.wikipedia.org/wiki/Western_Australia "Western Australia"), the [Australian SKA Pathfinder](https://en.wikipedia.org/wiki/Australian_SKA_Pathfinder "Australian SKA Pathfinder") (ASKAP) and the [Murchison Widefield Array](https://en.wikipedia.org/wiki/Murchison_Widefield_Array "Murchison Widefield Array") (MWA), the MeerKAT is one of four precursors to the final SKA.
-

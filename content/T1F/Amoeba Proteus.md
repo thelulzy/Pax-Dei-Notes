@@ -1,8 +1,0 @@
-> _**Amoeba [[Proteus (Greek god)|Proteus]]**_ is a large species of [[Amoeba]] closely related to another genus of giant amoebae, _[[Chaos (genus)|Chaos]]__. As such, the species is sometimes given the alternative scientific name _**Chaos diffluens**_.
-
-> [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Amoeba_proteus_locomotive_form.jpg/240px-Amoeba_proteus_locomotive_form.jpg)](https://en.wikipedia.org/wiki/File:Amoeba_proteus_locomotive_form.jpg)
-_Amoeba proteus_ in locomotion
-
-> This protozoan uses extensions called [pseudopodia](https://en.wikipedia.org/wiki/Pseudopodia "Pseudopodia") to move and to eat smaller [unicellular organisms](https://en.wikipedia.org/wiki/Unicellular_organism "Unicellular organism"). Food is enveloped inside the cell's [cytoplasm](https://en.wikipedia.org/wiki/Cytoplasm "Cytoplasm") in a food [vacuole](https://en.wikipedia.org/wiki/Vacuole "Vacuole"), where ingested matter is slowly broken down by enzymes. _A. proteus_ inhabits freshwater environments and feeds on protozoans, algae, rotifers, and even other smaller amoebae. They are colorless, but they may have colored inclusions derived from its food.
-
-> _A. proteus_ possesses a thick-walled [nucleus](https://en.wikipedia.org/wiki/Cell_nucleus "Cell nucleus") containing granular [chromatin](https://en.wikipedia.org/wiki/Chromatin "Chromatin"), and is therefore a [eukaryote](https://en.wikipedia.org/wiki/Eukaryote "Eukaryote"). Its [membrane](https://en.wikipedia.org/wiki/Cell_membrane "Cell membrane") includes a phospholipid bilayer similar to other eukaryotic organisms.
