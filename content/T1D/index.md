@@ -6,7 +6,7 @@
 [[namatama_xmas_2022]] (Confirmed no EEs)
 [[HappyNamaTama_2023]]
 [[404 (jpg)|404 (jpg)]]
-[[007.jpg]]
+[[007 (jpg)]]
 [[a_friend_u_missed]]
 
 #TODO: Figure out how to I should document images between T1D and T1E
