@@ -51,7 +51,7 @@ const config: QuartzConfig = {
       Plugin.FrontMatter(),
       Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        priority: ["filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
+        priority: ["git"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
       Plugin.SyntaxHighlighting(),
       Plugin.HardLineBreaks(),
