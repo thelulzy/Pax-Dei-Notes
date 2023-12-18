@@ -7,7 +7,7 @@ Another clue to ice for the tier!
 
 # 2) L 24 239 MH19 64PLC 012971
 Company Identification Number for Proctor and Gamble ([source](https://www.tofler.in/procter-and-gamble-hygiene-and-health-care-limited/company/L24239MH1964PLC012971)).
-Along with the image of Comet in the next image ([[A_Space_Friend.]]) this points us to calcium carbonate; the primary component in comet. 
+Along with the image of Comet in the next image ([[A_Space_Friend]]) this points us to calcium carbonate; the primary component in comet. 
 
 # 3) ΠΕΝΘΕΣΙΔΕΙΔ (Penthesilea)
 [wiki](https://en.wikipedia.org/wiki/Penthesilea)
@@ -46,4 +46,5 @@ Counts of pixels between each protruding pixel: 46, 11, 94
 Directs to https://www.reachthefinals.com/rival-1
 
 # 9) Partial snowflake vector
+Black overlay added to show where the rest of the snowflake would be
 [Confirmed by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1097114006491250708)
