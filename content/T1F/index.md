@@ -3,3 +3,4 @@
 
 # Image Analysis
 [[CB2_Couple]]
+[[CB2_Guns_and_Namas]]
