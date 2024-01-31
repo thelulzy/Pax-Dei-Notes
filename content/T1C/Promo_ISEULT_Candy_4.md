@@ -27,4 +27,4 @@ Likely to guide our thinking toward electrons & thus electron configurations
 There was speculation that this was pointing us toward a date we may have been getting close to solving the tier.
 
 # 7) 0
-#unsolved
+#Unsolved
