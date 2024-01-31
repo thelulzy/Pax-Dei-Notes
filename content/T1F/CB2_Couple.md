@@ -33,6 +33,7 @@ A full understanding of the relevance of CNS and serotonin is still developing.
 A search of the Indianapolis, Indiana zip code 46204 was performed, and [when asked "Somewhere close?"](https://discord.com/channels/1008696016318513243/1011929497139953744/1125909271327023105) received a ![[hug_friend.webp | 15]] from Rob.
 Rob also confirmed there was a tertiary clue in that area:
 > [took me some time Fish, but yes there in one obscure clue in that area…. ._. (tertiary)](https://discord.com/channels/1008696016318513243/1011929497139953744/1125911284043493376)
+
 # 6) 308x97px box around the Embark footer
 #Unsolved 
 An imperceptible box was discovered surrounding the Embark logo in the footer, and [was 👀'd by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125501439549112463).
