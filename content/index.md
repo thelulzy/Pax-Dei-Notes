@@ -15,6 +15,8 @@ T1C [[T1C/index|index]]
 
 T1D [[T1D/index|index]]
 
-T1E [[T1E/index|index]] (WIP)
+T1E [[T1E/index|index]]
+
+T1F [[T1F/index|index]] (WIP)
 
 I haven't yet documented the tiers after this. 
