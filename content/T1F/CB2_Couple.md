@@ -12,7 +12,7 @@ Believed to be "lapis", confirmation in a [message 👀'd by Rob](https://discor
 The diameters of the circles represent Kevin Costner's birthdate; likely another clue pointing towards Yellowstone, a show in which he starred.
 This was unsolved until revealed in a [message from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1152986641972076665).
 
-[Rob has revealed](https://discord.com/channels/1008696016318513243/1011929497139953744/1199463742572871732) that there are "tripple meaning\[s]"  behind these circles. 
+[Rob has revealed](https://discord.com/channels/1008696016318513243/1011929497139953744/1199463742572871732) that there are "tripple meaning\[s]" behind these circles. 
 
 The angle defined by the center points of the three circles is ~165.4° and the distances between them are 1206.25px and 1381.92px from left to right. ([source](https://discord.com/channels/1008696016318513243/1011929497139953744/1202056877006143508))
 
@@ -26,10 +26,13 @@ The connection to Proxima Centauri [has been 👀'd by Rob](https://discord.com/
 Converts to 46 204 in Arabic decimal numerals. 
 
 This lead hunter [fish](https://discordapp.com/users/485406144903512084) to the 978-0-306-**46204**-7, the hardcover ISBN for volume 467 of the series *Advances in Experimental Medicine and Biology*, titled [*Tryptophan, Serotonin, and Melatonin*](https://link.springer.com/book/10.1007/978-1-4615-4709-9#bibliographic-information).
-From this a connection between CNS (Central Nervous System) and serotonin was made and [acknowledged by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125528461939839138).
+From this a connection between CNS (Central Nervous System) and serotonin was made and [👀'd by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125528461939839138).
 
 A full understanding of the relevance of CNS and serotonin is still developing. 
 
+A search of the Indianapolis, Indiana zip code 46204 was performed, and [when asked "Somewhere close?"](https://discord.com/channels/1008696016318513243/1011929497139953744/1125909271327023105) received a ![[hug_friend.webp | 15]] from Rob.
+Rob also confirmed there was a tertiary clue in that area:
+> [took me some time Fish, but yes there in one obscure clue in that area…. ._. (tertiary)](https://discord.com/channels/1008696016318513243/1011929497139953744/1125911284043493376)
 # 6) 308x97px box around the Embark footer
 #Unsolved 
 An imperceptible box was discovered surrounding the Embark logo in the footer, and [was 👀'd by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125501439549112463).
