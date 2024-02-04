@@ -2,7 +2,14 @@
 ![[THE_FINALS_CB2_Guns_and_Namas_clues.png | 2000]]
 
 # 1) Communes of Dande
-Combined with the next clue...
+Caxito
+Kikabo
+Mabubas
+Úcua ( #Unsolved )
+
+The text Úcua has yet to be uncovered by hunters, it was unfound until revealed in a [message from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1152987061251485756).
+
+"Dande" combines with the next clue "lion" to form "dandelion"
 # 2) MAMMALIA FERÆ. Felis.   41   R12
 ![[SystemaNatura_page41_line12.png]]
 The twelfth line describes "Leo" aka the lion.
