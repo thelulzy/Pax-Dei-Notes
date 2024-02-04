@@ -4,6 +4,9 @@
 Part of a cross puzzle, leading to pointing to the center of the egg on the woman's kneepad. 
 This was unsolved until revealed in a [message from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1152988352400855091).
 
+There is an unfound "A." which is presumed to also be in this image, to the left of the woman's Namatama kneepad.
+#Unsolved
+
 # 2) ...pis
 Believed to be "lapis", confirmation in a [message 👀'd by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125511330305150977).
 
@@ -39,3 +42,7 @@ Rob also confirmed there was a tertiary clue in that area:
 An imperceptible box was discovered surrounding the Embark logo in the footer, and [was 👀'd by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125501439549112463).
 
 In this image analysis the box is pulled from the blue channel bit 0 bit plane, where it is clearly visible.
+
+# 7) Blue/green 1px border
+#Unsolved 
+These border pixels are an exact mirror across the vertical axis of those present in [[CB2_Guns_and_Namas]].
