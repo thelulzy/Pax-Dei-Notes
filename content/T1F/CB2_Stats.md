@@ -13,3 +13,5 @@ Taking the first letter of the role each actor played on the [TV show Yellowston
 **O**il Worker - Derek Reid Boone
 **N**ews Anchor Jane - Julia Cavanaugh
 **E**llis Steele- John Emmet Tracy
+
+This clue can also be found in [[SHHH]].
