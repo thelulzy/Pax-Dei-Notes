@@ -6,3 +6,4 @@
 [[CB2_Stats]]
 [[CB2_Guns_and_Namas]]
 [[SHHH]]
+[[NeverOddOrEven]]
