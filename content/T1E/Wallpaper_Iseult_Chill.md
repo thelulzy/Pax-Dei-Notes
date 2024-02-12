@@ -2,7 +2,7 @@
 
 ![[THE_FINALS_Wallpaper_Iseult_Chill_2880x1620_clues.png | 2000]]
 
-# 1) Iceburg
+# 1) Iceberg
 Another clue to ice for the tier!
 
 # 2) L 24 239 MH19 64PLC 012971
