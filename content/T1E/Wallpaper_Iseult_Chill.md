@@ -44,7 +44,11 @@ Counts of pixels between each protruding pixel: 46, 11, 94
 
 # 8) Noisy QR Code
 Directs to https://www.reachthefinals.com/rival-1
+This is a picture of side 2 of Malte Johnsons Orkester  and Raija **Mannerla**'s record – High Society / Kaksi Kitaraa. The image has been edited to remove Raija Mannerla's first name from the record. 
+An unedited picture of the record can be seen in the when clicking [more images on discogs](https://www.discogs.com/release/21706327-Malte-Johnsons-Orkester-Raija-Mannerla-High-Society-Kaksi-Kitaraa-/image/SW1hZ2U6NzE3MzM5Njc=).
+![unedited Kaksi Kitaraa](https://i.discogs.com/-Kf7CX_AUbO0E6oL8Kur_V6tfXBbWHkwmF1ewWVdtyQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxNzA2/MzI3LTE2NDE5OTI1/NjktMzI3MC5qcGVn.jpeg)
 
+Mannerla was later found to be hidden as a clue in [[Robatama]] as well.
 # 9) Partial snowflake vector
 Black overlay added to show where the rest of the snowflake would be
 [Confirmed by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1097114006491250708)

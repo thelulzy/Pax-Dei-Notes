@@ -1,13 +1,13 @@
 ![[THE_FINALS_Robatama.png | 1000]]
-![[THE_FINALS_Robatama_clues.png | 1000]]
+![[THE_FINALS_Robatama_clues.png| 1000]]
 
 # 1) KARI (Younger Futhark)
 
 # 2) Binary 
 ## 01110011 00101111 00110010 00110000 00110000 00110110 00100000 01110011 00100000 00110010 00100000
 s/2006 s 2
-Kari
-
+[wiki](https://simple.wikipedia.org/wiki/Kari_(moon))
+> **Kari** or **Saturn XLV** (provisional designation **S/2006 S 2**) is a [moon](https://simple.wikipedia.org/wiki/Satellite_(natural) "Satellite (natural)") of [Saturn](https://simple.wikipedia.org/wiki/Saturn_(planet) "Saturn (planet)").
 # 3) Graph Puzzle
 ![GraphPuzzleSolved | 400](https://media.discordapp.net/attachments/1011929497139953744/1093923335605330081/image.png)
 
@@ -24,36 +24,29 @@ Doing so also left Robatama looking like a starry night sky:
 ![[Night_Sky_Robatama.png | 1000]]
 
 # 5) 512006 5 2 120013130A171100
-
+#Unsolved (The relevance of Kari Mannerla to the hunt is speculated, but unknown)
 ### 512006 5 2: Kari
 Here the first 8 digits of the string represents the same as clue 2:
 512006 5 2 
 s/2006 s 2
+### 1200131304171100: Mannerla
+Breaking up the string into two digit substrings and using A0Z25 to convert the numbers to letters gives the solution:
 
-### ... and then? 
-The next digit "1" is also believed to represent a slash.
+| 12 | 00 | 13 | 13 | 04 | 17 | 11 | 0 |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| M | A | N | N | E | R | L | A |
+### Kari Mannerla
+Both Kari and Mannerla appeared as clues on their own, but this is the first location where they have been found combined.
+[wiki](https://en.wikipedia.org/wiki/Kari_Mannerla)
+> **Kari Mannerla** (January 9, 1930, [Helsinki](https://en.wikipedia.org/wiki/Helsinki "Helsinki"), [Finland](https://en.wikipedia.org/wiki/Finland "Finland") – July 12, 2006, Helsinki, Finland) was a Finnish [board](https://en.wikipedia.org/wiki/Board_game "Board game") and [card game](https://en.wikipedia.org/wiki/Card_game "Card game") designer and advertising agency executive. The most famous game designed by Mannerla is the board game _[Afrikan tähti](https://en.wikipedia.org/wiki/Afrikan_t%C3%A4hti "Afrikan tähti")_ (_The Star of Africa_), the idea of which he began to develop in 1949. The game was published two years later. Mannerla made up the name of the game when reading an article about the biggest diamond in the world, the [Star of Africa](https://en.wikipedia.org/wiki/Star_of_Africa "Star of Africa"), discovered in [South Africa](https://en.wikipedia.org/wiki/South_Africa "South Africa").
 
-The next 7 digits are believed to represent a date.
+### The Star of Africa
+[wiki](https://en.wikipedia.org/wiki/Cullinan_Diamond)
+ It had a blue-white hue and contained a small pocket of air, which at certain angles produced a rainbow, or [Newton's rings](https://en.wikipedia.org/wiki/Newton%27s_rings "Newton's rings").
 
-### March 13, 2001.
-The date was originally interpreted to be March 13, 2001. This lead to the [Astronomy Picture of the Day](https://apod.nasa.gov/apod/ap010313.html).
->**Explanation:** Have you ever seen a [sun pillar](http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/opt/ice/sp.rxml)? When the air is cold and the Sun is rising or [setting](https://apod.nasa.gov/apod/ap980526.html), falling [ice crystals](http://samba.student.oulu.fi/~jarkkoko/REPLICA.HTM) can reflect sunlight and create an [unusual](https://apod.nasa.gov/apod/ap000507.html) column of light. Ice sometimes forms flat, stop-sign [shaped crystals](http://www.sundog.clara.co.uk/halo/crystals.htm) as it falls from high-level [clouds](http://www.met.tamu.edu/class/Metr304/Exer10dir/classification.html). [Air resistance](http://www.lerc.nasa.gov/WWW/K-12/airplane/bga.html) causes these crystals to lie nearly flat much of the time as they flutter to the ground. Sunlight reflects off crystals that are properly aligned, creating the [sun-pillar](http://www.sundog.clara.co.uk/halo/pillar.htm) effect. In the [above picture](http://geocities.com/stanzman_2001/), a [sun-pillar](http://www.meteoros.de/englisch/ee08e.htm) reflects light from a setting Sun.
-
-This could be pointing toward ice, like other clues in the tier.
-
-### March 31, 2001
-Much later, after the tier was already solved I wondered if we could've mixed up the day and the month.
-This led me to the day [Clifford Shull](https://en.wikipedia.org/wiki/Clifford_Shull) died.
-> Professor Shull's \[Nobel] prize was awarded for his pioneering work in [neutron scattering](https://en.wikipedia.org/wiki/Neutron_scattering "Neutron scattering"), a technique that reveals where atoms are within a material like ricocheting bullets reveal where obstacles are in the dark.
-
-This could be pointing towards atoms, pointing us towards the chemical formula for CaCO3
-
-### 0A171100
-I believe this is pointing us to https://oeis.org/A171100
-0=O letter substitution. O for OEIS.
-A171100 being the sequence identifier.
-
-> It appears that the ratios a(n-2):a(n-1):a(n), when n is a multiple of 3, tend to 1:phi:phi^2 as n tends to infinity, where phi is the **golden ratio** ([A001622](https://oeis.org/A001622 "Decimal expansion of golden ratio phi (or tau) = (1 + sqrt(5))/2.")). Is there a simple proof of this?
+### Newton's Rings
+[wiki](https://en.wikipedia.org/wiki/Newton%27s_rings)
+This pattern closely resembles [the burrw diamond clue](https://www.reachthefinals.com/burrw) and artifacts found in many of the <label>#</label>official-art images. 
 
 # 6) 206888
 This number was also seen in [[Wallpaper_CB_Up_We_Go]].
