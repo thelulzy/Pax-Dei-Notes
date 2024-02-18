@@ -23,7 +23,7 @@ I found that taking bit planes 0-3 for all the channels, inverting the 0th and 3
 Doing so also left Robatama looking like a starry night sky:
 ![[Night_Sky_Robatama.png | 1000]]
 
-# 5) 512006 5 2 120013130A171100
+# 5) 512006 5 2 1200131304171100
 #Unsolved (The relevance of Kari Mannerla to the hunt is speculated, but unknown)
 ### 512006 5 2: Kari
 Here the first 8 digits of the string represents the same as clue 2:
