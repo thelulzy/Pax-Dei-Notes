@@ -1,1 +1,1 @@
-# 1)  ![[Whiteboard G6 Chord]]
+![[Whiteboard G6 Chord]]
