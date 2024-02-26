@@ -33,3 +33,10 @@ Features many references to famous Swedish children's author Astrid Lindgren and
 # 11) Coffee Stain
 #Unsolved 
 I suspect we are being trolled and this is a simple coffee stain, but Rob has egged on investigations into it.
+# 12) Lobster 
+> The [American Lobster](https://en.wikipedia.org/wiki/American_lobster "American lobster") _Homarus americanus_, maintains stable \[amorphous calcium carbonate] throughout its yearly molt cycle
+# 13) Rob and Unknown
+#Unsolved
+![[IMG_CDIV_RobEye.png | 800]]
+We presume this to be a photo of Rob based on the visible armband and baseball cap. He appears to be displaying the [ILY sign](https://en.wikipedia.org/wiki/ILY_sign) with one hand and the [shaka sign](https://en.wikipedia.org/wiki/Shaka_sign) or the letter Y from [ASL's American Letter Alphabet](https://en.wikipedia.org/wiki/American_manual_alphabet#Gallery) with the other.
+His lower half appears to be merged with some partial concentric ovals, vaguely resembling the shape of an eye. 
