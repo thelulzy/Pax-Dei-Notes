@@ -37,4 +37,5 @@ Ice -> Calcium Carbonate
 
 # 6) Cross Cipher
 #Unsolved 
+This cipher can also be found in [[Robatama]].
 Note that mirroring across the horizontal axis results in matching symbols and filling in missing symbols; no conflicting symbols.

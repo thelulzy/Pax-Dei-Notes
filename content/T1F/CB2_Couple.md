@@ -1,11 +1,13 @@
 ![[THE_FINALS_CB2_Couple.png | 1000]]
 ![[THE_FINALS_CB2_Couple_clues.png | 1000]]
 # 1) α.
+#Unsolved
 Part of a cross puzzle, leading to pointing to the center of the egg on the woman's kneepad. 
 This was unsolved until revealed in a [message from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1152988352400855091).
 
-There is an unfound "A." which is presumed to also be in this image, to the left of the woman's Namatama kneepad.
-#Unsolved
+There is an unfound "A." which is presumed to also be in this image, to the left of the woman's Namatama kneepad. 
+The corresponding "B." and "β." can be found in [[CB2_Guns_and_Namas]].
+
 
 # 2) ...pis
 Believed to be "lapis", confirmation in a [message 👀'd by Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1125511330305150977).
