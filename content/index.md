@@ -1,9 +1,7 @@
 ---
-title: THE FINALS history 
+title: THE FINALS EE Hunt History
 ---
 Welcome to my web of thoughts and research regarding the history of THE FINALS Easter Egg Hunt. 
-
-I have begun documenting past tiers, primarily using [Flex4d's TFEE document](https://docs.google.com/document/d/1CLzGtj2w2elVkqEdPV6NgqRiszNAxnwIANXHK-Pa1Bk)
 
 ___
 
@@ -19,6 +17,6 @@ T1E [[T1E/index|index]]
 
 T1F [[T1F/index|index]]
 
-T2 [[T2ABC & T2DEF/index|index]] (WIP)
+T2 [[T2ABC & T2DEF/index|index]]
 
-I haven't yet documented the tiers after this. 
+T3 [[T3/index|index]] (WIP. Current tier)
