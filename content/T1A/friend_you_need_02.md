@@ -4,6 +4,4 @@ Originally [posted](https://discord.com/channels/1008696016318513243/10119294971
 
 The image was [immediately identified](https://discord.com/channels/1008696016318513243/1011929497139953744/1029416708437463143) to be [[Galileo Galilei]].
 
-
-![lens](https://media.discordapp.net/attachments/1011929497139953744/1029437753508765836/unknown.png?ex=65661c1e&is=6553a71e&hm=2cbd6582c98b366f766759ea9e7b939f2f6685280ea2e64b9050085b0824d297&=)
 The depiction of a shooting star or comet in the lens of the telescope and [an eye from Rob](https://discord.com/channels/1008696016318513243/1011929497139953744/1029437753789788200) spurred hunters back to [[1064 Aethusa]], an asteroid which had [already been found](https://discord.com/channels/1008696016318513243/1011929497139953744/1028698831744938014) to share a name with the woman of Greek myth. This quickly led to [the discovery](https://discord.com/channels/1008696016318513243/1011929497139953744/1029450968246538343) that 1064 ( #num1064) was the password for T1A.
