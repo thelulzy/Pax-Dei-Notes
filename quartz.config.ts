@@ -1,55 +1,43 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4.0 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Pax Dei Notes",
+    pageTitle: "🪴 Quartz 4.0",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
-    baseUrl: "thelulzy.github.io",
+    baseUrl: "quartz.jzhao.xyz",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "created",
     theme: {
-      fontOrigin: "googleFonts",
-      cdnCaching: true,
       typography: {
-        header: "Saira",
-        body: "Saira",
-        code: "Saira",
+        header: "Schibsted Grotesk",
+        body: "Source Sans Pro",
+        code: "IBM Plex Mono",
       },
-//          red: "#d21f3c"
-//          white: "#e5e6e8"
-//          black: "#1d1a20"
-//          yellow: "#f7bb2b"
       colors: {
         lightMode: {
-          light: "#d21f3c",
-          lightgray: "#1d1a20",
-          gray: "#e5e6e8",
-          darkgray: "#e5e6e8",
-          dark: "#e5e6e8",
-          secondary: "#e5e6e8",
-          tertiary: "#f7bb2b",
-          highlight: "#1d1a20",
+          light: "#faf8f8",
+          lightgray: "#e5e5e5",
+          gray: "#b8b8b8",
+          darkgray: "#4e4e4e",
+          dark: "#2b2b2b",
+          secondary: "#284b63",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#1d1a20",
+          light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
           darkgray: "#d4d4d4",
-          dark: "#e5e6e8",
-          secondary: "#d21f3c",
-          tertiary: "#e5e6e8",
-          highlight: "#f7bb2b",
+          dark: "#ebebec",
+          secondary: "#7b97aa",
+          tertiary: "#84a59d",
+          highlight: "rgba(143, 159, 169, 0.15)",
         },
       },
     },
@@ -57,30 +45,21 @@ const config: QuartzConfig = {
   plugins: {
     transformers: [
       Plugin.FrontMatter(),
+      Plugin.TableOfContents(),
       Plugin.CreatedModifiedDate({
-        // you can add 'git' here for last modified from Git
-        // if you do rely on git for dates, ensure defaultDateType is 'modified'
-        priority: ["git"],
+        priority: ["frontmatter", "filesystem"], // you can add 'git' here for last modified from Git but this makes the build slower
       }),
-      Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.SyntaxHighlighting({
-        theme: {
-          light: "github-light",
-          dark: "github-dark",
-        },
-        keepBackground: false,
-      }),
-      Plugin.HardLineBreaks(),
+      Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.Latex({ renderEngine: "katex" }),
       Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
+      Plugin.ComponentResources({ fontOrigin: "googleFonts" }),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),
