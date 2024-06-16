@@ -1,1 +1,0 @@
-![[Whiteboard G6 Chord]]

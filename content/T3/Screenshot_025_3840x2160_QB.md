@@ -1,1 +1,0 @@
-![[THE_FINALS_Screenshot_025_2880x1620_QB.png | 2000]]

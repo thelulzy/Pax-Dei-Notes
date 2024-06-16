@@ -7,8 +7,8 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/thelulzy/TF-EE-quartz-obsidian-vault",
-      "Discord Community": "https://discord.gg/thefinals",
+      GitHub: "https://github.com/thelulzy/Pax-Dei-Notes",
+      "Discord Community": "https://discord.gg/paxdei",
     },
   }),
 }
@@ -25,7 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
   ],
   right: [
     Component.Graph(),
@@ -42,7 +42,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.DesktopOnly(Component.Explorer({folderClickBehavior: "link"})),
   ],
   right: [],
 }
