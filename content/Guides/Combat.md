@@ -8,7 +8,7 @@ Regular attacks can be performed by pressing `LeftMouse`. Notably performing a r
 With the exception of a few unique magical swords, every weapon of a single type shares a unique special attack which can be performed by pressing `CTRL-LeftMouse`. Note that these special attacks consume stamina and have a cooldown before they may be used again.
 
 For example, here's sword's special attack.
-![[Pasted image 20240615222520.png]]
+![[Imgs/Pasted image 20240615222520.png]]
 
 Because of the variety of damage types/resistances and the variety of special attacks it will be important for the kingdom to have skilled users for each weapon type.
 ## Blocking
