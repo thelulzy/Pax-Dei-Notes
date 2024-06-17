@@ -26,7 +26,7 @@ It's easy to block their attack, respond with your own, and repeat.
 Their attacks will likely be unsynchronized, making it nearly impossible to block all incoming attacks and respond with your own. 
 
 When possible, try to aggro a single enemy to isolate them. If you accidentally aggro a group you can often retreat until they start to deaggro, while staying close enough to either maintain aggro on one or to reinitiate aggro on an enemy which separated from the group while chasing you.
-We've found that shooting arrows *near* an enemy will often allow you to aggro only the closest enemy, even while others are relatively close by. 
+We've found that shooting arrows at the ground *near* an enemy will often allow you to aggro only the closest enemy, even while others are relatively close by. 
 
 When fighting a group solo you don't have many options other than using your cooldowns when available and spamming normal attacks. Once you've whittled them down to a single enemy you can return to alternating blocking and attacking.
 ## When fighting archers
@@ -35,7 +35,7 @@ Their arrows are very easy to dodge, so the most effective way to kill them is t
 ## When fighting with a group
 Shield bashes can be performed in a sequence to stun-lock enemies. While in a party the list of players can be used as the order players should perform their shield bashes. As the group approaches the enemy the first player in the party list performs a shield bash and says "Stun 1". After about a second the next player performs a shield bash and says "Stun 2". This sequence continues while the rest of the players utilize their primary and special attacks to kill the enemy.
 
-If the enemy is still alive and everyone's shield bashes are on cooldown it's time to watch your health. If you are taking damage from the enemy then it's time to hold up your shield while the rest of the party continues to wail on them. If your health begins to get uncomfortably low you can often strafe backward while continuing to shield and the arrgo will switch to someone else.
+If the enemy is still alive and everyone's shield bashes are on cooldown it's time to watch your health. If you are taking damage from the enemy then it's time to hold up your shield while the rest of the party continues to wail on them. If your health begins to get uncomfortably low you can often strafe backward while continuing to shield and the arrgo will switch to someone else. If at any time you are struggling to pass through your teammates unequipping your weapon should allow you to clip past them.
 
 There is a notion of threat in the game, which determines which player will pull aggro. We've found that the player dealing the highest damage seems to generate the highest threat. There are also certain magic items which focus on the generation of threat. We suspect that special attacks generate high threat as well (likely due to their high damage); so if the person shielding is trying to retreat it's likely that the next person to use a special attack will gain aggro.
 
