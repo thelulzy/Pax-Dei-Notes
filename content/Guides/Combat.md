@@ -46,7 +46,7 @@ Magic spells can be unlocked by equipping armor (cloth, leather, or metal) which
 
 Relics are dropped by named enemies. Named enemies can be easily identified because their names are capitalized as though they are proper nouns.
 > [!example]+ Examples:
- `Inquisitor Veritatis` is a named enemy, while `inquisition herald` and `inquisitor scout` are not.
+ > `Inquisitor Veritatis` is a named enemy, while `inquisition herald` and `inquisitor scout` are not.
 
 Once you've equipped a piece of magic gear, the spell can be equipped into one of the `CTRL-1` through `CTRL-5` spell slots by right clicking on the spell slot in your inventory.
 Spells consume stamina to use and have a cooldown, just like special attacks and shield bashes!
