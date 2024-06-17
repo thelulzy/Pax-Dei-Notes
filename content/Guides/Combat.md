@@ -8,8 +8,8 @@ Regular attacks can be performed by pressing `LeftMouse`. Notably performing a r
 
 With the exception of a few unique magical swords, every weapon of a single type shares a unique special attack which can be performed by pressing `CTRL-LeftMouse`. Note that these special attacks consume stamina and have a cooldown before they may be used again.
 
-For example, here's sword's special attack.
-![[Imgs/Pasted image 20240615222520.png]]
+> [!example]+ Example: Sword's special attack:
+>![[Imgs/Pasted image 20240615222520.png]]
 
 Because of the variety of damage types/resistances and the variety of special attacks it will be important for the kingdom to have skilled users for each weapon type.
 ## Blocking
@@ -45,7 +45,8 @@ There is a notion of threat in the game, which determines which player will pull
 Magic spells can be unlocked by equipping armor (cloth, leather, or metal) which was crafted using relics. 
 
 Relics are dropped by named enemies. Named enemies can be easily identified because their names are capitalized as though they are proper nouns.
-For example `Inquisitor Veritatis` is a named enemy, while `inquisition herald` and `inquisitor scout` are not.
+> [!example]+ Examples:
+ `Inquisitor Veritatis` is a named enemy, while `inquisition herald` and `inquisitor scout` are not.
 
 Once you've equipped a piece of magic gear, the spell can be equipped into one of the `CTRL-1` through `CTRL-5` spell slots by right clicking on the spell slot in your inventory.
 Spells consume stamina to use and have a cooldown, just like special attacks and shield bashes!
