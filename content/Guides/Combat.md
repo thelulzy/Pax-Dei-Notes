@@ -1,3 +1,4 @@
+# The Basics
 Each weapon type has its own skill level. These combat skill levels are important because each weapon has a hidden weapon scaling stat. This means it's often better to stick with a weapon which you are skilled in using, rather than switching to the latest and greatest weapon that the weaponsmith can produce. Soon enough the weaponsmith will be able to make a better version of the weapon type you are currently using, and by that time your skill with it will be even higher!
 
 There are three different melee damage types, and each enemy will have different resistances to them. Armors and foods (and maybe someday potions) provide these resistances to us!
