@@ -9,9 +9,8 @@ Regular attacks can be performed by pressing `LeftMouse`. Notably performing a r
 With the exception of a few unique magical swords, every weapon of a single type shares a unique special attack which can be performed by pressing `CTRL-LeftMouse`. Note that these special attacks consume stamina and have a cooldown before they may be used again.
 
 > [!example]+ Example: Sword's special attack:
->![[Imgs/Pasted image 20240615222520.png]]
-
-Because of the variety of damage types/resistances and the variety of special attacks it will be important for the kingdom to have skilled users for each weapon type.
+>![[SwordSwipe_SpecialAttackExample.png]]
+[](SwordSwipe_SpecialAttackExample.png)esistances and the variety of special attacks it will be important for the kingdom to have skilled users for each weapon type.
 ## Blocking
 With the exception of great weapons (greatswords/greatmauls/greataxes) and polearms, all weapons are one handed and thus allow you to utilize a shield (or light source) while wielding them. Shielding is very important in combat. Holding `RightMouse` will raise your shield and allow you to directionally block incoming damage. Each time you block damage by shielding *some* of the damage you would otherwise take is instead drained from your stamina. Blocking is also a skill. Higher levels of block allow you to block higher quantities of incoming damage. If your block skill is not high enough to block the entirety of an attack you will take the stamina hit and any unblocked damage will spill over to your health. It is likely that higher levels of block also reduce the stamina lost when blocking damage, but I have not verified this.
 
